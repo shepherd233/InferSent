@@ -1,1 +1,1 @@
-print("I love you， me ")
+print("I love you ")
